@@ -22,6 +22,8 @@ Setup part is simple
 ```sh
 dependencies {
 	        implementation 'com.github.mahimrocky:TextRecognizer:1.0.0'
+		implementation 'com.karumi:dexter:5.0.0'
+
 	}
 ```
 
